@@ -1,1 +1,9 @@
+! https://github.com/AdguardTeam/AdguardFilters/issues/242857
+krakowskie.info##.widget-advert_placement
+krakowskie.info##.item-subtype-a
+krakowskie.info##.item-subtype-b
+krakowskie.info##.item-subtype-c
+krakowskie.info##[data-ciid]
+krakowskie.info##.tipad_tag
+||sc.4media.com^$domain=krakowskie.info
 
